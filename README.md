@@ -9,8 +9,6 @@ Projects / Description                                                          
 ---                                                                                                                                                                          |---
 *ARDicee* <br/><sub>Generating and rolling dice(s) in AR.</sub> | N/A |
 *ARRuler* <br/><sub>Measuring the distance from one point to another in AR.</sub> | N/A |
-*AppLifecycle* <br/><sub>Project for understanding the thread of execution and the lifecycle of an app.</sub> | N/A |
-*AutoLayout* <br/><sub>Dice app with auto layout to align the UI to any device.</sub> | ![AutoLayout](https://user-images.githubusercontent.com/81259525/114483158-beab8200-9bbc-11eb-87a4-94583c54d2b1.png) |
 *BMI Calculator* <br/><sub>App that measures your BMI.</sub> | ![BMI Calculator](https://user-images.githubusercontent.com/81259525/114483170-c5d29000-9bbc-11eb-8a0f-2fe780aec633.png) ![BMI Calculator2](https://user-images.githubusercontent.com/81259525/114483178-c9661700-9bbc-11eb-9fcd-4753703595c0.png) |
 *BusinessCard* <br/><sub>Digital business card.</sub> | ![BusinessCard](https://user-images.githubusercontent.com/81259525/114483191-cff48e80-9bbc-11eb-84fd-7d924ce61f4d.png) |
 *ByteCoin* <br/><sub>Converts the exchange rate of BitCoin to a selected national currency. Uses Coin API.</sub> | ![ByteCoin](https://user-images.githubusercontent.com/81259525/114483223-db47ba00-9bbc-11eb-8f8f-9ca98605a56d.png) |
